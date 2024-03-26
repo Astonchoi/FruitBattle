@@ -1,18 +1,18 @@
 # FruitBattle
 Battle about fruit and junk food
 
-# MenuScreen:
+# MenuScreen
 Name: Fruit Battle
 Buttons: 
 "Start" -> StartScreen
 "Setting" -> Setting Screen
 
-# StartScreen: 
+# StartScreen 
 Button:
 "Menu" -> Back to MenuScreen
 
 Customize object
 
-# Setting Screen
+# SettingScreen
 Button:
 "Menu" -> Back to MenuScreen
